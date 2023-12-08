@@ -1,5 +1,5 @@
 # GS-Resources
-About Certain anime game Repacked Resource For [4.2.52](https://github.com/Wangsheng-Funeral-Parlor/HuTao-GS)
+About Certain anime game Repacked Resource For [4.2.50](https://github.com/Wangsheng-Funeral-Parlor/HuTao-GS)
 
 ## pls remember to unzip `SceneData.zip`!
 
