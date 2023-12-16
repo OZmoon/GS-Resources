@@ -9,4 +9,3 @@ Choose your version on Branch!
 ## Credits 
  - [HuTao-GD](https://github.com/Wangsheng-Funeral-Parlor/HuTao-GD)
  - [Dimbreath](https://gitlab.com/Dimbreath/AnimeGameData) <br/>
- - [MLChinoo](https://github.com/MLChinoo) <br/>
